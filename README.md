@@ -1,3 +1,9 @@
+#简介
+https://zhuanlan.zhihu.com/p/306530300
+
+#部署过程记录
+https://blog.csdn.net/liang_xiao_yun/article/details/112324991
+
 ![](docs/imgs/Title.jpg)
 
 # NanoDet
